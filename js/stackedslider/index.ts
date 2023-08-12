@@ -1,0 +1,1 @@
+export { default as StackedSlider } from "./StackedSlider.svelte";
